@@ -85,7 +85,7 @@
       "id": 9,
       "name": "The Prosciutto Concern",
       "specialty": "truffle finder",
-      "greased": false,
+      "greased": true,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2.3,
       "highest medal achieved": "bronze",
       "image": "./hog-imgs/the_prosciutto_concern.jpg"
